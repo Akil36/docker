@@ -1,6 +1,6 @@
 # Spring Boot MongoDB Notes App
 
-This is a simple Notes application built with Spring Boot and MongoDB, fully Dockerized.
+This is a simple Notes application built with Spring Boot with two api's and MongoDB from docker image, fully Dockerized.
 
 ## Features
 
